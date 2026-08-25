@@ -1,4 +1,4 @@
-version: "0.0.3"
-description: "A simple example component"
-url: "https://github.com/SolderedElectronics/soldered-esp-idf-component-template"
+version: "1.0.0"
+description: "ESP-IDF driver for the Soldered I2C LCD adapter (TCA9534 I2C expander driving a 16x2 HD44780 display)"
+url: "https://github.com/SolderedElectronics/Soldered-I2C-LCD-Adapter-ESP-IDF-Component"
 license: "GPL-3.0"
